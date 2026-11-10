@@ -38,7 +38,12 @@ Engineered for high-throughput screening of multiple formulations or large datas
 2. Review the model validation metrics (e.g., $R^2$, RMSE) and analytical charts (Actual vs. Predicted, Feature Importance).
 3. Export the comprehensive AI report. This confirms that the data has been successfully processed and the model is accurately stabilized.
 
----
+## 💻 Data & Source Code Availability
+The standalone executable software (`.exe`) is fully available in the **Releases** section for immediate use by researchers. 
+However, to protect intellectual property and comply with our laboratory's data-sharing policies, the raw Python source code and training datasets are not publicly hosted in this repository. 
+
+Researchers or reviewers interested in accessing the raw source code for non-commercial or verification purposes can obtain it upon reasonable request by contacting the lead developer at:
+📧 **ahmadreza_nekounam@modares.ac.ir**
 
 ## 📚 Citation
 If you use the NMP framework or this repository in your research, cite our primary manuscript.
