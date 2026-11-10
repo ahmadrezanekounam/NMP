@@ -10,6 +10,7 @@ Welcome to the official repository for the **Neko MIC Predictor (NMP)**. This AI
 Follow these sequential steps to utilize the predictive modules effectively:
 
 ### Step 1: Load the Knowledge Base
+Download the NMP_DataBase.xlsx provided in this repository and load it into the software to initialize the XGBoost engines.
 Before running any predictions, the software requires a foundational dataset to calibrate the machine learning models.
 1. Open the NMP software.
 2. Click on the **"Load Knowledge base (Excel)"** button located at the top of the interface.
